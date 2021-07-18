@@ -2,7 +2,7 @@ import telebot
 import requests
 from telebot import types
 
-bot = telebot.TeleBot('1700587633:AAEzqONYT99uAagbxTwluh1I9CLy1msV0Vs')
+bot = telebot.TeleBot('')
 
 
 st_markup = types.ReplyKeyboardMarkup(row_width=6, resize_keyboard=True)
